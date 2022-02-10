@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://app-github-user-finder.herokuapp.com",
+    "pluginsFile": false,
+    "supportFile": false,
+    "viewportHeight": 1024,
+    "viewportWidth": 1280
+}

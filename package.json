@@ -1,0 +1,15 @@
+{
+  "name": "github-finder-user",
+  "version": "1.0.0",
+  "description": "Busca por nome de usuários do Github e mostra seus repositórios",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "npx cypress open",
+    "test": "cypress run"
+  },
+  "author": "Lay-RosaLauren",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.4.1"
+  }
+}
