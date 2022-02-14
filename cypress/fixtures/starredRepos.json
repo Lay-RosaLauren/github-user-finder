@@ -1,24 +1,26 @@
 [
-    {
-      "full_name": "Lay-RosaLauren/AgilizeiSpark",
-      "owner": {
-        "login": "Lay-RosaLauren"
-      },    
-      "html_url": "https://github.com/Lay-RosaLauren/AgilizeiSpark",
-      "description": "💻 Automação de Testes com Cypress -  ⚡️ semana-agilizei-03",
-      "stargazers_count": 1,
-      "watchers_count": 1,
-      "forks_count": 0
-    },
-    {
-      "full_name": "Lay-RosaLauren/AluraChanel",
-      "owner": {
+  {
+    "full_name": "Lay-RosaLauren/starred-AgilizeiSpark",
+    "owner": {
       "login": "Lay-RosaLauren"
-      },    
-      "html_url": "https://github.com/Lay-RosaLauren/AluraChanel",
-      "description": "Catálogo Fashion! ⌚ 👢 👓 👜 ",
-      "stargazers_count": 1,
-      "watchers_count": 1,
-      "forks_count": 0
-    }
-]     
+    },
+    "html_url": "https://github.com/Lay-RosaLauren/starred-AgilizeiSpark",
+    "description": "My Fixture starred-AgilizeiSpark",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "watchers": 0
+  },
+  {
+    "full_name": "Lay-RosaLauren/starred-AluraChanel",
+    "owner": {
+      "login": "Lay-RosaLauren"
+    },
+    "html_url": "https://github.com/Lay-RosaLauren/starred-AluraChanel",
+    "description": "My Fixture starred-AluraChanel",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "watchers": 0
+  }
+]
