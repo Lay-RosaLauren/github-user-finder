@@ -10,3 +10,4 @@
 - Layout por Adriana Ferreira Lima 
 - Licença MIT
 - Criação: Adriana Lima
+- Estudos da live - cy.handsOn('freestyle') - Mão-na-massa com Cypress -TAT
